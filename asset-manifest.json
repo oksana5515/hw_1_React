@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oksana5515/hw_1_React/static/css/main.02cc4ff6.css",
+    "main.js": "/oksana5515/hw_1_React/static/js/main.1d165c61.js",
+    "static/js/453.ed3810f9.chunk.js": "/oksana5515/hw_1_React/static/js/453.ed3810f9.chunk.js",
+    "static/media/Montserrat-Medium.ttf": "/oksana5515/hw_1_React/static/media/Montserrat-Medium.d3f3d769c2fc1af5c0b4.ttf",
+    "static/media/sweet2.png": "/oksana5515/hw_1_React/static/media/sweet2.b87a5598181ff0d46878.png",
+    "static/media/sweet3.png": "/oksana5515/hw_1_React/static/media/sweet3.b4ef343c7554582ab5dc.png",
+    "static/media/sweet1.png": "/oksana5515/hw_1_React/static/media/sweet1.234c6a015d8ec8339dd2.png",
+    "static/media/LogoYummy.svg": "/oksana5515/hw_1_React/static/media/LogoYummy.2f8eb7c4aa3757324ba19de74cf45c90.svg",
+    "index.html": "/oksana5515/hw_1_React/index.html",
+    "main.02cc4ff6.css.map": "/oksana5515/hw_1_React/static/css/main.02cc4ff6.css.map",
+    "main.1d165c61.js.map": "/oksana5515/hw_1_React/static/js/main.1d165c61.js.map",
+    "453.ed3810f9.chunk.js.map": "/oksana5515/hw_1_React/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02cc4ff6.css",
+    "static/js/main.1d165c61.js"
+  ]
+}
